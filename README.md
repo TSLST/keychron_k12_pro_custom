@@ -1,3 +1,15 @@
+## Project
+I own a Keychron K12 Pro and find this 60% Keyboard a fantastic nomade peripheral. Its configuration possibilities are still limited though. I intend to use my coding skills in an augmented way to build a more productive firmware.
+Here are some of the implements that I devised:
+* Custom rbg depending on functions keypresses (Especially highlighting the arrow keys)
+* Remapping arrows to WASD (Or WASE) and use E (Or D) for delete. One hand would then hold the key while the other operates.
+* Mapping `~ to \| in layer one, cos I use `~ a lot in markdowns or console
+* Custom rgb solid theme according to other TLSLT themes
+* Custom rgb accents on certain keys to ameliorate key deciphering in the dark (I tend to misstype some keys in the middle of others: 3456789 ghjkl cvb)
+* Take a look at all the function shortcuts and set them differently, especially for usage with phone and linux
+
+---
+
 ## 1. What your DFU output proves (this is excellent news)
 
 This block is gold:
